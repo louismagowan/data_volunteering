@@ -2,7 +2,7 @@
 
 I had a lot of time on my hands during the first two lockdowns in the UK. I was keen to do some volunteering but also wanted to work on my Python- so data volunteering was a natural step. All my projects were co-ordinated by the skills-based volunteering organisation, Catchafire. https://www.catchafire.org/
 
-For data privacy reasons I have had to anonymise/obfuscate parts of the analysis and code I'm attaching.
+For data privacy reasons I have had to anonymise/obfuscate parts of the analysis and code I'm attaching. I've also included some comments/sections of commented out code to show my thought process.
 
 
 
