@@ -9,7 +9,7 @@ For data privacy reasons I have had to anonymise/obfuscate parts of the analysis
 The first project was with the Family Engagement Lab, a San Francisco-based education charity. They needed some analysis done to demonstrate the efficacy of an education programme they were running for socioeconomically disadvantaged families. The sample size ended up being too small to produce much useful from the inferential side (logistic and multivariate regressions were tried) of the analysis, but the descriptive part painted the programme in a highly positive light.
 
 
-The second project was with CrossPurpose, a Denver-based social outreach charity. Their dataset was extremely different- a larger sample and far more features. They needed help identifying which types of people were most likely to benefit from an employment programme they ran. I built a model that performed feature selection on their dataset and outputted a final regression to see which factors had a significant effect on a candidate's likelihood to finish the employment programme. 
+The second project was with CrossPurpose, a Denver-based social outreach charity. Their dataset was extremely different- a larger sample and far more features. They needed help identifying which types of people were most likely to benefit from an employment programme they ran. I built a model that performed feature selection on their dataset and outputted a final regression to see which factors had a significant effect on a candidate's likelihood to finish the employment programme. The coolest part of this project was designing the notebook in such a way that it could be run without needing to know Python.
 
 
 All pretty fun and nice ways to practice my coding!
