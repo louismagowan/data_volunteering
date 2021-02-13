@@ -10,3 +10,6 @@ The first project was with the Family Engagement Lab, a San Francisco-based educ
 
 
 The second project was with CrossPurpose, a Denver-based social outreach charity. Their dataset was extremely different- a larger sample and far more features. They needed help identifying which types of people were most likely to benefit from an employment programme they ran. I built a model that performed feature selection on their dataset and outputted a final regression to see which factors had a significant effect on a candidate's likelihood to finish the employment programme. 
+
+
+All pretty fun and nice ways to practice my coding!
